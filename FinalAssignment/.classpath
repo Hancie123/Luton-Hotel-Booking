@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="Connector"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="Connector/mysql-connector-java-8.0.28.jar"/>
+	<classpathentry kind="lib" path="itext-1.4.6.jar"/>
+	<classpathentry kind="lib" path="Libs/TimingFramework-0.55.jar"/>
+	<classpathentry kind="lib" path="Libs/filters-2.0.235.jar"/>
+	<classpathentry kind="lib" path="Libs/swing-worker-1.1.jar"/>
+	<classpathentry kind="lib" path="Libs/swingx-1.6.1.jar"/>
+	<classpathentry kind="lib" path="Libs/Hancie-project.jar"/>
+	<classpathentry kind="lib" path="Libs/itextpdf-5.1.0.jar"/>
+	<classpathentry kind="lib" path="Libs/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="Libs/RojeruSan.parte1.jar"/>
+	<classpathentry kind="lib" path="Libs/RSCalendar.jar"/>
+	<classpathentry kind="lib" path="Libs/RSFoto_v1.0.jar"/>
+	<classpathentry kind="lib" path="Libs/RSTableMetro.jar"/>
+	<classpathentry kind="lib" path="Libs/joda-time-2.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
